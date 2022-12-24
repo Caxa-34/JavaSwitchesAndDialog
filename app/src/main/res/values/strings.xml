@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SwitchesAndDialog</string>
+    <string name="culc">culculate</string>
+    <string name="apple">apple</string>
+    <string name="strber">strawberry</string>
+    <string name="blber">blueberry</string>
+    <string name="pot">potatoes</string>
+    <string name="O">0</string>
+    <string name="price">Price:</string>
+    <string name="count">Count:</string>
+    <string name="result">result</string>
+    <string name="output">Output:</string>
+    <string name="toast">Toast</string>
+    <string name="textview">TextView</string>
+    <string name="dialog">Dialog</string>
+</resources>
